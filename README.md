@@ -1,1 +1,1 @@
-# starWars
+Работа с API StarWars
